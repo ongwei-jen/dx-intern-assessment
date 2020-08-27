@@ -1,4 +1,4 @@
-# Test
+# Digi-X Intern Assessment
 
 Hello! This is the main ReadMe for the repository. There are three folders corresponding to the three sections of the Internship Assessment. 
 
