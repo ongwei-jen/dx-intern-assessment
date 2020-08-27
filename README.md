@@ -1,22 +1,10 @@
-# Intern Assessment
+# Test
 
-Task 1:
-This is a simple counter app
-There are a few bugs with it which you are required to fix
+Hello! This is the main ReadMe for the repository. There are three folders corresponding to the three sections of the Internship Assessment. 
 
-Expected outcome:
-1. The counter should increase and decrease by 1 each time the button is clicked
-2. The value should not give a negative value (eg: -5, -10, -100)
-3. The reset button should reset the value to 0
+Folder 1 is regarding Section 1 (Online Restaurant Reservation Platform)
 
-Task 2:
-Create a weight converter app
+Folder 2 is regarding Section 2 (Github questions)
 
-Expected outcome:
-1. Ask for user input in Kilogram (Kg), convert to Pound and Milligram at the same time
-2. Able to show converted values
+Folder 3 is regarding Section 3 (Counter App and Weight Converter)
 
-# Instructions
-1. Fork this repo to your own github
-2. All projects are web based applications
-3. Completed projects should be hosted on github pages/anything (Can be on single page HTML or Full ReactJS project or etc...)
