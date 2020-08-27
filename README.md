@@ -8,3 +8,4 @@ Folder 2 is regarding Section 2 (Github questions)
 
 Folder 3 is regarding Section 3 (Counter App and Weight Converter)
 
+The Digi-X Intern Assessment pdf file has been filled with the particulars
